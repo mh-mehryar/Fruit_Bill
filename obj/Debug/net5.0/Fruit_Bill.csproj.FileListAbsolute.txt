@@ -1,0 +1,16 @@
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\Fruit_Bill.exe
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\Fruit_Bill.deps.json
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\Fruit_Bill.runtimeconfig.json
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\Fruit_Bill.runtimeconfig.dev.json
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\Fruit_Bill.dll
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\ref\Fruit_Bill.dll
+D:\.Net\Exercise\S08\Fruit_Bill\bin\Debug\net5.0\Fruit_Bill.pdb
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.csproj.AssemblyReference.cache
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.AssemblyInfoInputs.cache
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.AssemblyInfo.cs
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.dll
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\ref\Fruit_Bill.dll
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.pdb
+D:\.Net\Exercise\S08\Fruit_Bill\obj\Debug\net5.0\Fruit_Bill.genruntimeconfig.cache
